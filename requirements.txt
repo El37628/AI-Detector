@@ -1,0 +1,11 @@
+re
+torch
+numpy
+nltk
+contractions
+scikit-learn
+transformers
+nlpaug
+modal
+scipy
+discord
