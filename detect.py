@@ -250,6 +250,6 @@ async def on_command_error(ctx, error):
         return
 
 if __name__ == '__main__':
-    bot.run('MTEyMjc5MjY0Mjg1NDUzMTE1Mg.G6KiBq.HFwy_f0n4EmhEnb6T-AoCHERdEIz-hIyOfTl70')
+    bot.run('[ENTER_YOUR_BOT_TOKEN]')
 
 
