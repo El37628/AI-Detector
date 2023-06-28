@@ -1,6 +1,7 @@
 re
 torch
 numpy
+os
 nltk
 contractions
 scikit-learn
@@ -9,3 +10,4 @@ nlpaug
 modal
 scipy
 discord
+asyncio
